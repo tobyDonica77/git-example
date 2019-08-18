@@ -1,3 +1,3 @@
 # git-example
 
-Examples in notepad
+This is some new text 
